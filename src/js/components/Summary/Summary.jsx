@@ -27,7 +27,7 @@ class Summary extends React.Component {
 
     return (
       <div className='card border-info mb-3'>
-        <div className='card-header text-white bg-info'>Summary</div>
+        <div className='card-header text-white bg-info'>Analysis</div>
         <div className='card-body'>
           <div className='container'>
             <div className='row'>

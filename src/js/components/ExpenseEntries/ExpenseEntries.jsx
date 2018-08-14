@@ -43,7 +43,7 @@ export default class ExpenseEntries extends React.Component {
     const { description, amount, lineItems } = this.props;
     return (
       <div className='card border-danger mb-3'>
-        <div className='card-header text-white bg-danger'>Expense Entries</div>
+        <div className='card-header text-white bg-danger'>Expenses</div>
         <div className='card-body'>
           <form>
             <div className='form-group'>
